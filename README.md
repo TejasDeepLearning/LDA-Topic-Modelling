@@ -2,6 +2,8 @@
 
 This repository contains code for performing topic modelling using Latent Dirichlet Allocation (LDA) and visualizing the results using Streamlit.
 
+![alt text](https://github.com/TejasDeepLearning/LDA-Topic-Modelling/blob/main/LDA.png) 
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
@@ -34,3 +36,4 @@ To run this code locally, follow these steps:
 5. The cleaned text will be converted into a bag-of-words vector using a pre-defined dictionary.
 6. The LDA model will assign probabilities to each topic based on the bag-of-words vector.
 7. The app will display the most probable topic and its corresponding probability.
+
