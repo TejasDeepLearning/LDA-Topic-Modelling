@@ -6,7 +6,6 @@ This repository contains code for performing topic modelling using Latent Dirich
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 The purpose of this code is to perform topic modelling on a collection of documents using the LDA algorithm and visualize the topics and their probabilities using Streamlit. The code takes a user input text and assigns it to one of the pre-defined topics based on the trained LDA model.
